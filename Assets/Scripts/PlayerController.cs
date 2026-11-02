@@ -1,0 +1,33 @@
+using UnityEngine;
+
+[RequireComponent(typeof(Rigidbody2D))]
+public class PlayerController: MonoBehaviour 
+{
+    public float moveSpeed = 5f;
+    public float jumpForce = 5f;
+
+    private Rigidbody2D rb;
+
+    void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        rb.sleepMode = RigidbodySleepMode2D.NeverSleep; 
+    }
+
+    void Update()
+    {
+        float moveX = Input.GetAxisRaw("Horizontal");
+        bool jumpPressed = Input.GetButtonDown("Jump");
+
+        rb.linearVelocity = new Vector2(
+            moveX * moveSpeed,
+            rb.linearVelocity.y
+        );
+
+        if(jumpPressed)
+        {
+            rb.AddForce(Vector2.up * jumpForce, 
+                        ForceMode2D.Impulse);
+        }
+    }
+}
