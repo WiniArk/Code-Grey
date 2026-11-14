@@ -1,0 +1,970 @@
+fileFormatVersion: 2
+guid: 90c2efedc93e9ad4fa4a32597e6887a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5553865309805291366
+    second: Pudgie_Sprite_0
+  - first:
+      213: -628006282759689453
+    second: Pudgie_Sprite_1
+  - first:
+      213: -5468103711849674876
+    second: Pudgie_Sprite_2
+  - first:
+      213: -7510687483062187902
+    second: Pudgie_Sprite_3
+  - first:
+      213: 4019918860925225007
+    second: Pudgie_Sprite_4
+  - first:
+      213: -2384561335987902221
+    second: Pudgie_Sprite_5
+  - first:
+      213: -3552287715471800057
+    second: Pudgie_Sprite_6
+  - first:
+      213: -6216866471152056239
+    second: Pudgie_Sprite_7
+  - first:
+      213: -8771865853680958698
+    second: Pudgie_Sprite_8
+  - first:
+      213: 1784029611004676499
+    second: Pudgie_Sprite_9
+  - first:
+      213: -5841936938171958645
+    second: Pudgie_Sprite_10
+  - first:
+      213: -5319745101522747336
+    second: Pudgie_Sprite_11
+  - first:
+      213: -5154061264112050364
+    second: Pudgie_Sprite_12
+  - first:
+      213: -2846893335526228152
+    second: Pudgie_Sprite_13
+  - first:
+      213: 3367093903471490073
+    second: Pudgie_Sprite_14
+  - first:
+      213: -4108469817555962509
+    second: Pudgie_Sprite_15
+  - first:
+      213: -6593496341082549965
+    second: Pudgie_Sprite_16
+  - first:
+      213: -4363044361250091724
+    second: Pudgie_Sprite_17
+  - first:
+      213: -1441611281823948227
+    second: Pudgie_Sprite_18
+  - first:
+      213: 1197008008054347384
+    second: Pudgie_Sprite_19
+  - first:
+      213: -3684001327847533627
+    second: Pudgie_Sprite_20
+  - first:
+      213: 5106666310757948746
+    second: Pudgie_Sprite_21
+  - first:
+      213: -2460772012478261163
+    second: Pudgie_Sprite_22
+  - first:
+      213: -8923638309383425861
+    second: Pudgie_Sprite_23
+  - first:
+      213: 2851387817558812545
+    second: Pudgie_Sprite_24
+  - first:
+      213: 1637487330874281634
+    second: Pudgie_Sprite_25
+  - first:
+      213: 2316058586526130908
+    second: Pudgie_Sprite_26
+  - first:
+      213: -2456133169951619157
+    second: Pudgie_Sprite_27
+  - first:
+      213: 804162263771568453
+    second: Pudgie_Sprite_28
+  - first:
+      213: -3772082552667902172
+    second: Pudgie_Sprite_29
+  - first:
+      213: 5370236889878527120
+    second: Pudgie_Sprite_30
+  - first:
+      213: -376059111304801272
+    second: Pudgie_Sprite_31
+  - first:
+      213: -3142847930812097275
+    second: Pudgie_Sprite_32
+  - first:
+      213: 5064492688525082776
+    second: Pudgie_Sprite_33
+  - first:
+      213: -7066946209770052392
+    second: Pudgie_Sprite_34
+  - first:
+      213: -7031518937765385945
+    second: Pudgie_Sprite_35
+  - first:
+      213: -7896577534263507973
+    second: Pudgie_Sprite_36
+  - first:
+      213: -6755649242627994502
+    second: Pudgie_Sprite_37
+  - first:
+      213: 8358465419481496349
+    second: Pudgie_Sprite_38
+  - first:
+      213: -3373707022198665423
+    second: Pudgie_Sprite_39
+  - first:
+      213: -2696608862572734119
+    second: Pudgie_Sprite_40
+  - first:
+      213: -8072599979474491869
+    second: Pudgie_Sprite_41
+  - first:
+      213: -834232121646154184
+    second: Pudgie_Sprite_42
+  - first:
+      213: 2839962887881376269
+    second: Pudgie_Sprite_43
+  - first:
+      213: 5159170186828961900
+    second: Pudgie_Sprite_44
+  - first:
+      213: -4267618660338748542
+    second: Pudgie_Sprite_45
+  - first:
+      213: 1471612961145790423
+    second: Pudgie_Sprite_46
+  - first:
+      213: -2915135622751743083
+    second: Pudgie_Sprite_47
+  - first:
+      213: -1990782183634657321
+    second: Pudgie_Sprite_48
+  - first:
+      213: 1807401550064558612
+    second: Pudgie_Sprite_49
+  - first:
+      213: 234152131284398700
+    second: Pudgie_Sprite_50
+  - first:
+      213: 856426923743172876
+    second: Pudgie_Sprite_51
+  - first:
+      213: -6590926140019858378
+    second: Pudgie_Sprite_52
+  - first:
+      213: -4288223185366056560
+    second: Pudgie_Sprite_53
+  - first:
+      213: -1810644148522759285
+    second: Pudgie_Sprite_54
+  - first:
+      213: 8179629739446578254
+    second: Pudgie_Sprite_55
+  - first:
+      213: 8478566379409133672
+    second: Pudgie_Sprite_56
+  - first:
+      213: 6292631802890837689
+    second: Pudgie_Sprite_57
+  - first:
+      213: 1648425041969141170
+    second: Pudgie_Sprite_58
+  - first:
+      213: -4353353833897987504
+    second: Pudgie_Sprite_59
+  - first:
+      213: -625036149383986980
+    second: Pudgie_Sprite_60
+  - first:
+      213: 4990586921006884258
+    second: Pudgie_Sprite_61
+  - first:
+      213: -476991734846148386
+    second: Pudgie_Sprite_62
+  - first:
+      213: 4668746558077510622
+    second: Pudgie_Sprite_63
+  - first:
+      213: -2715748886098865055
+    second: Pudgie_Sprite_64
+  - first:
+      213: -1363503023143983075
+    second: Pudgie_Sprite_65
+  - first:
+      213: 1456384498217993118
+    second: Pudgie_Sprite_66
+  - first:
+      213: 8909700696261839709
+    second: Pudgie_Sprite_67
+  - first:
+      213: 6221529137952720638
+    second: Pudgie_Sprite_68
+  - first:
+      213: 6684132638835987212
+    second: Pudgie_Sprite_69
+  - first:
+      213: 638236917292129641
+    second: Pudgie_Sprite_70
+  - first:
+      213: -8937417272439789388
+    second: Pudgie_Sprite_71
+  - first:
+      213: -8146878509242000182
+    second: Pudgie_Sprite_72
+  - first:
+      213: 4258622137131223031
+    second: Pudgie_Sprite_73
+  - first:
+      213: 8797904280373860406
+    second: Pudgie_Sprite_74
+  - first:
+      213: 37577611858235867
+    second: Pudgie_Sprite_75
+  - first:
+      213: -3506613874772530441
+    second: Pudgie_Sprite_76
+  - first:
+      213: 7705142332892118397
+    second: Pudgie_Sprite_77
+  - first:
+      213: 6057094789006265163
+    second: Pudgie_Sprite_78
+  - first:
+      213: -8549105813380991438
+    second: Pudgie_Sprite_79
+  - first:
+      213: -6089314382284014849
+    second: Pudgie_Sprite_80
+  - first:
+      213: -5433139589210503765
+    second: Pudgie_Sprite_81
+  - first:
+      213: 9206102568382549885
+    second: Pudgie_Sprite_82
+  - first:
+      213: -5539059741686024366
+    second: Pudgie_Sprite_83
+  - first:
+      213: -7785573264797287768
+    second: Pudgie_Sprite_84
+  - first:
+      213: -1432918734433425358
+    second: Pudgie_Sprite_85
+  - first:
+      213: -5041989185809533861
+    second: Pudgie_Sprite_86
+  - first:
+      213: -5324779910750030983
+    second: Pudgie_Sprite_87
+  - first:
+      213: 2713803790540219908
+    second: Pudgie_Sprite_88
+  - first:
+      213: -1956230792995483482
+    second: Pudgie_Sprite_89
+  - first:
+      213: -4830239244242765853
+    second: Pudgie_Sprite_90
+  - first:
+      213: 7401295464048990288
+    second: Pudgie_Sprite_91
+  - first:
+      213: 5031770778468839130
+    second: Pudgie_Sprite_92
+  - first:
+      213: -2957581078862903454
+    second: Pudgie_Sprite_93
+  - first:
+      213: 6118482024674103044
+    second: Pudgie_Sprite_94
+  - first:
+      213: -3429109736047043470
+    second: Pudgie_Sprite_95
+  - first:
+      213: 9147599272733888551
+    second: Pudgie_Sprite_96
+  - first:
+      213: 6088877280235008900
+    second: Pudgie_Sprite_97
+  - first:
+      213: -8744115331503130755
+    second: Pudgie_Sprite_98
+  - first:
+      213: -8631857513096218793
+    second: Pudgie_Sprite_99
+  - first:
+      213: 8890820871578192226
+    second: Pudgie_Sprite_100
+  - first:
+      213: 683904067545568715
+    second: Pudgie_Sprite_101
+  - first:
+      213: 4855465920789599449
+    second: Pudgie_Sprite_102
+  - first:
+      213: -8396733046490959897
+    second: Pudgie_Sprite_103
+  - first:
+      213: -7114156607529352335
+    second: Pudgie_Sprite_104
+  - first:
+      213: -637682901823869798
+    second: Pudgie_Sprite_105
+  - first:
+      213: 827107768754342500
+    second: Pudgie_Sprite_106
+  - first:
+      213: 4493570161299052897
+    second: Pudgie_Sprite_107
+  - first:
+      213: 76932456262796661
+    second: Pudgie_Sprite_108
+  - first:
+      213: -8675275940836732699
+    second: Pudgie_Sprite_109
+  - first:
+      213: -5325152858359984358
+    second: Pudgie_Sprite_110
+  - first:
+      213: 8318074524886536839
+    second: Pudgie_Sprite_111
+  - first:
+      213: 6626411927262832167
+    second: Pudgie_Sprite_112
+  - first:
+      213: -4108985643087432198
+    second: Pudgie_Sprite_113
+  - first:
+      213: -5346540686784156046
+    second: Pudgie_Sprite_114
+  - first:
+      213: -8973984985417306474
+    second: Pudgie_Sprite_115
+  - first:
+      213: -4779495949290879135
+    second: Pudgie_Sprite_116
+  - first:
+      213: 1358266832411788868
+    second: Pudgie_Sprite_117
+  - first:
+      213: -6991200600816526097
+    second: Pudgie_Sprite_118
+  - first:
+      213: 5854362928190858940
+    second: Pudgie_Sprite_119
+  - first:
+      213: -8370055662033192151
+    second: Pudgie_Sprite_120
+  - first:
+      213: -9042878515606653370
+    second: Pudgie_Sprite_121
+  - first:
+      213: -2187606406818257384
+    second: Pudgie_Sprite_122
+  - first:
+      213: 1941424702856562320
+    second: Pudgie_Sprite_123
+  - first:
+      213: 1402703592993176821
+    second: Pudgie_Sprite_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_01
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1014
+        width: 108
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8a0faaddcdc1c4eb7539c938bcf41d
+      internalID: -5553865309805291366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_02
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1012
+        width: 108
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dc49e5409a6694c867fa16d04a9358
+      internalID: -628006282759689453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_03
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1013
+        width: 105
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae0488f806a1fe41a49dec7039ae0ae
+      internalID: 1886849612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_04
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1014
+        width: 106
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ab6db559cbe5d4fbb83d52a186ea44
+      internalID: 160816650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_01
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 754
+        width: 110
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfb8967dc7739747838f55bc3057034
+      internalID: 4019918860925225007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_02
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 752
+        width: 109
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3d6fe463002f340989470656ded675
+      internalID: 2068136576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_03
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 754
+        width: 111
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69fd3db24ce4344d95e1058e69814a4
+      internalID: -3552287715471800057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_04
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 754
+        width: 105
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefdb99e94d2ae9458bd5ad44f059d52
+      internalID: 1223537194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_05
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 754
+        width: 113
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c18150035eed5643ae94f522c72798c
+      internalID: -8771865853680958698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_06
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 754
+        width: 110
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb18fb290ecff4f9dab898765707c3
+      internalID: 1784029611004676499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_07
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 752
+        width: 112
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4413d8944b2844dbe6baf004d006fb
+      internalID: -5841936938171958645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_01
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 509
+        width: 116
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033607e804713a24b9c0565de308f80f
+      internalID: -5319745101522747336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_02
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 514
+        width: 126
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeab11299db2bb6459f68098c4510078
+      internalID: -5154061264112050364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_03
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 539
+        width: 125
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d246252a553809e4485040b6fe210bb7
+      internalID: -2846893335526228152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_04
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 513
+        width: 119
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42c9449472099a4b80ecbb095a259d8
+      internalID: 3367093903471490073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 274
+        width: 135
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e64c5df7912da6478190d08370aef66
+      internalID: -6593496341082549965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land_01
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 46
+        width: 126
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eba2eb066f335c4a8211237fdd5577d
+      internalID: -4363044361250091724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land_02
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 46
+        width: 164
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b45ed78f9802b47af668197249c2f6
+      internalID: -1441611281823948227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land_03
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 45
+        width: 157
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc6b98fa67f17640a3a4412a2e2751e
+      internalID: 1197008008054347384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land_04
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 46
+        width: 108
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d42107f85e7b4eb5adbaee8d61d48
+      internalID: -3684001327847533627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 884f3239cf025224697c562bb1720ea6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Fall: -6593496341082549965
+      Idle_01: -5553865309805291366
+      Idle_02: -628006282759689453
+      Idle_03: 1886849612
+      Idle_04: 160816650
+      Jump_01: -5319745101522747336
+      Jump_02: -5154061264112050364
+      Jump_03: -2846893335526228152
+      Jump_04: 3367093903471490073
+      Land_01: -4363044361250091724
+      Land_02: -1441611281823948227
+      Land_03: 1197008008054347384
+      Land_04: -3684001327847533627
+      Pudgie_Sprite_15: -4108469817555962509
+      Walk_01: 4019918860925225007
+      Walk_02: 2068136576
+      Walk_03: -3552287715471800057
+      Walk_04: 1223537194
+      Walk_05: -8771865853680958698
+      Walk_06: 1784029611004676499
+      Walk_07: -5841936938171958645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
